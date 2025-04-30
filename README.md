@@ -4,7 +4,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=FF00F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI+Engineer;Manga+%26+Anime+Enthusiast;Building+Creative+Digital+Solutions" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/rithymeth/rithymeth/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+![Snake animation](https://github.com/rithymeth/rithymeth/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
