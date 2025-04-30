@@ -33,14 +33,14 @@ Design         :: Figma, Blender (for sci-fi modeling), Photoshop
 
 ```
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=rithymeth&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api?username=rithymeth&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
 
 📫 Contact Me
 🌐 Website: your-website.com
 
 🛰️ LinkedIn: linkedin.com/in/yourname
 
-🛠️ Projects: github.com/yourusername
+🛠️ Projects: github.com/rithymeth
 
 ⚡ Fun Fact
 “Sometimes you have to go up really high to understand how small you really are.” — Felix Baumgartner
