@@ -1,4 +1,5 @@
 # rithymeth
+
 <!-- GitHub Profile README for Supreme Commander Rithy Meth -->
 
 <h1 align="center">Hi 👋, I'm  Rithy Meth</h1>
@@ -11,6 +12,7 @@
 ---
 
 ### 🔭 Current Mission
+
 - 🚀 **Commanding the UNSC Omega Titan Carrier**
 - 🛰️ Leading **Operation New Dawn**: Deep Space Exploration
 - 🤖 AI & Automation projects in Python, JS & C++
@@ -28,6 +30,9 @@ DevOps         :: Git, Docker, GitHub Actions, Linux
 Design         :: Figma, Blender (for sci-fi modeling), Photoshop
 
 
+
+```
+
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
 
 📫 Contact Me
@@ -41,4 +46,4 @@ Design         :: Figma, Blender (for sci-fi modeling), Photoshop
 “Sometimes you have to go up really high to understand how small you really are.” — Felix Baumgartner
 👨‍🚀 Now imagine that... beyond the stars.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/> </p> ```
+<p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/> </p>
