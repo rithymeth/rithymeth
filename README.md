@@ -26,3 +26,19 @@ Frameworks     :: React, Node.js, Flask, Bootstrap
 AI Tools       :: OpenAI API, TensorFlow, Hugging Face
 DevOps         :: Git, Docker, GitHub Actions, Linux
 Design         :: Figma, Blender (for sci-fi modeling), Photoshop
+
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
+
+📫 Contact Me
+🌐 Website: your-website.com
+
+🛰️ LinkedIn: linkedin.com/in/yourname
+
+🛠️ Projects: github.com/yourusername
+
+⚡ Fun Fact
+“Sometimes you have to go up really high to understand how small you really are.” — Felix Baumgartner
+👨‍🚀 Now imagine that... beyond the stars.
+
+<p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/> </p> ```
