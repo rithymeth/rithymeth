@@ -75,7 +75,7 @@ class TechCommander:
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=1331-manga-repo&theme=tokyonight)](https://github.com/rithymeth/1331-manga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=1331-manga&theme=tokyonight)](https://github.com/rithymeth/1331-manga)
 
 </div>
 
