@@ -117,8 +117,6 @@ A modern manga reading platform built with Next.js and AI-powered features:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rithymeth&theme=radical&hide_border=true&background=0D1117&stroke=FF00F7&ring=00F7FF&fire=FF00F7" />
 </div>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="45"> Connect With Me
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
