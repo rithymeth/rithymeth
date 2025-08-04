@@ -120,11 +120,6 @@ A modern manga reading platform built with Next.js and AI-powered features:
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="45"> Connect With Me
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF00F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rithymeth.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/rithymeth)
-[![GitHub](https://img.shields.io/badge/GitHub-FF00F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rithymeth)
-[![Email](https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rithy1331@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
