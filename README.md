@@ -13,7 +13,7 @@
   <a href="https://github.com/rithymeth">
     <img src="https://img.shields.io/github/stars/rithymeth?label=Stars&style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/rithy-meth-72b99129/">
+  <a href="https://www.linkedin.com/in/rithy-meth-72b99129a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
   </a>
 </p>
