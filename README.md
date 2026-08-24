@@ -1,307 +1,313 @@
-# <div align="center">⚡ Rithy Meth</div>
+# ⚡ Rithy Meth
 
-<div align="center">
-
-### Backend Developer · Full-Stack Engineer · AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FF00F7&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer;Full+Stack+Engineer;AI+%26+Automation+Enthusiast;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/rithymeth">
-    <img src="https://img.shields.io/github/followers/rithymeth?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/rithymeth">
-    <img src="https://img.shields.io/github/stars/rithymeth?label=Stars&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/rithy-meth-72b99129a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
+<p align="center">
+  <strong>Software Engineer · Backend & Full-Stack · AI Systems Builder</strong>
 </p>
 
-</div>
+<p align="center">
+  Building production-minded software, AI assistants, automation systems, and scalable web applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/rithymeth"><img src="https://img.shields.io/badge/GitHub-rithymeth-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/rithy-meth-72b99129a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rithy1331@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=FF00F7&center=true&vCenter=true&width=760&lines=Backend+Engineering;Full-Stack+Development;AI+Agents+%26+Automation;System+Design;Building+Ideas+into+Products" alt="Typing SVG">
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Rithy Meth**, a Backend Developer and Full-Stack Engineer focused on building reliable, scalable, and maintainable software systems.
+I'm **Rithy Meth**, a software engineer focused on building reliable backend systems, full-stack products, automation platforms, and AI-powered applications.
 
-My primary interests are:
+I enjoy taking a product from:
 
-* ⚙️ Backend architecture and API development
-* 🗄️ Database design and optimization
-* 🔐 Authentication, authorization, and application security
-* ☁️ Cloud deployment and DevOps
-* 🤖 AI-powered applications and automation
-* 🌐 Full-stack web application development
-* 🧩 System design and distributed systems
+```text
+Idea → Architecture → Implementation → Deployment → Iteration
+```
 
-I enjoy taking an idea from **concept → architecture → implementation → deployment**.
+My engineering interests include:
 
----
-
-## 🚀 What I Build
-
-<div align="center">
-
-| Area             | Focus                                                     |
-| ---------------- | --------------------------------------------------------- |
-| ⚙️ Backend       | REST APIs, business logic, authentication, services       |
-| 🗄️ Databases    | PostgreSQL, MySQL, MongoDB, Redis                         |
-| ☁️ Cloud         | AWS, Railway, Docker, CI/CD                               |
-| 🤖 AI            | AI assistants, AI APIs, automation, agents                |
-| 🌐 Full Stack    | React, Next.js, TypeScript                                |
-| 🏗️ Architecture | MVC, modular systems, microservices, event-driven systems |
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-## ⚙️ Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</p>
-
-## 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-</p>
-
-## 🌐 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
-
-## 🤖 AI & Automation
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</p>
-
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
-
-## 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
+- ⚙️ Backend architecture and API engineering
+- 🗄️ Database design and data-intensive applications
+- 🔐 Authentication, authorization, and application security
+- ☁️ Cloud deployment, containers, and CI/CD
+- 🤖 AI agents, LLM applications, and automation
+- 🌐 Full-stack web applications
+- 🏗️ System design and scalable architectures
+- 🧩 Modular and maintainable software
 
 ---
 
 # 🚀 Featured Projects
 
+## 🤖 JARVIS — Local AI Assistant OS
+
+<a href="https://github.com/rithymeth/AI-Assistant-JARVIS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=AI-Assistant-JARVIS&theme=radical&hide_border=true" alt="JARVIS repository card">
+</a>
+
+A local-first AI assistant designed to move beyond chat into **memory, voice, vision, web research, PC automation, and controlled system actions**.
+
+### Highlights
+
+- 🧠 Local LLM inference with Ollama
+- 🎙️ Speech-to-text and text-to-speech
+- 👁️ Screen and camera vision
+- 🧩 Persistent memory with SQLite and ChromaDB
+- 🌐 Web research and knowledge retrieval
+- 🖥️ PC and Windows automation
+- 🔐 Authentication and optional face verification
+- 🛡️ Approval gates for high-impact actions
+- 📱 LAN / multi-device access
+
+**Repository:** [AI-Assistant-JARVIS](https://github.com/rithymeth/AI-Assistant-JARVIS)
+
+---
+
 ## 🌊 FlowFeed — Social Media Platform
 
 <a href="https://github.com/rithymeth/1331-social-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=1331-social-&theme=radical&hide_border=true&border_color=FF00F7" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=1331-social-&theme=radical&hide_border=true" alt="FlowFeed repository card">
 </a>
 
-**FlowFeed** is a social media platform focused on creating a modern content-sharing experience.
+A social platform project focused on the core mechanics required to build a modern community and content-sharing product.
 
-### Key Features
+### Highlights
 
-* 👤 User accounts and profiles
-* 📝 Social posts
-* ❤️ Reactions and interactions
-* 💬 Comments
-* 🔐 Authentication and authorization
-* 🛡️ Content and user management
-* ⚙️ RESTful backend APIs
-* 🗄️ Database-driven architecture
-* ☁️ Cloud deployment
+- 👤 User accounts and profiles
+- 📝 Social content
+- ❤️ Reactions and interactions
+- 💬 Comments
+- 🔐 Authentication and authorization
+- 🛡️ User/content management
+- ⚙️ Backend APIs
+- ☁️ Deployed web application
 
-**Repository:**
-https://github.com/rithymeth/1331-social-
+**Repository:** [1331-social-](https://github.com/rithymeth/1331-social-)
 
 ---
 
-## 📦 POS & Inventory Management System
+## 🏪 1331 POS — Point of Sale & Business Management
 
 <a href="https://github.com/rithymeth/1331-POS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=1331-POS&theme=radical&hide_border=true&border_color=FF00F7" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=1331-POS&theme=radical&hide_border=true" alt="1331 POS repository card">
 </a>
 
-A business management platform designed around:
+A business management platform centered around the operational workflow of a retail or distribution business.
 
-* 📦 Inventory management
-* 🛒 Product management
-* 💰 Sales management
-* 👥 Customer management
-* 🚚 Delivery management
-* 📊 Reporting
-* 🔐 Role-based access control
-* 🗄️ Database management
+### Focus Areas
 
-**Repository:**
-https://github.com/rithymeth/1331-POS
+- 🧾 Point-of-sale transactions
+- 📦 Inventory and stock management
+- 🛒 Product management
+- 💰 Sales management
+- 👥 Customer management
+- 🚚 Delivery workflows
+- 📊 Business reporting
+- 👨‍💼 Administrative management
 
----
-
-## 🤖 JARVIS AI Assistant
-
-<a href="https://github.com/rithymeth/AI-Assistant-JARVIS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=AI-Assistant-JARVIS&theme=radical&hide_border=true&border_color=FF00F7" />
-</a>
-
-An experimental AI assistant platform designed around modular AI services, automation, tools, and agent-based workflows.
-
-### Goals
-
-* 🧠 AI-powered task execution
-* 🔌 External API integration
-* 🤖 AI agents
-* ⚙️ Automation
-* 🛠️ Tool integration
-* 🗣️ Natural-language interaction
-* 🧩 Modular architecture
-
-**Repository:**
-https://github.com/rithymeth/AI-Assistant-JARVIS
+**Repository:** [1331-POS](https://github.com/rithymeth/1331-POS)
 
 ---
 
 ## 📚 1331 Manga
 
 <a href="https://github.com/rithymeth/1331-manga">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=1331-manga&theme=radical&hide_border=true&border_color=FF00F7" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rithymeth&repo=1331-manga&theme=radical&hide_border=true" alt="1331 Manga repository card">
 </a>
 
-A modern manga platform focused on delivering a clean and responsive reading experience.
+A web application project focused on delivering a modern digital manga browsing and reading experience.
 
-* 📖 Manga reading
-* 🎨 Modern UI
-* 📱 Responsive design
-* ⚡ Performance-focused architecture
-* 🤖 AI-powered feature exploration
+**Repository:** [1331-manga](https://github.com/rithymeth/1331-manga)
 
 ---
 
-# 💼 Professional Experience
+# 🛠️ Technology Stack
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,cs,cpp" alt="Backend technologies">
+</p>
+
+`Node.js` · `Express` · `Python` · `FastAPI` · `C#` · `C++`
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" alt="Frontend technologies">
+</p>
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" alt="Database technologies">
+</p>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `SQLite`
+
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI technologies">
+</p>
+
+`LLM Applications` · `AI Agents` · `Automation` · `Ollama` · `OpenAI` · `LangChain` · `Hugging Face` · `PyTorch` · `TensorFlow`
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" alt="Cloud and DevOps technologies">
+</p>
+
+`AWS` · `Docker` · `GitHub Actions` · `Linux` · `Railway` · `CI/CD`
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools">
+</p>
+
+---
+
+# 🧠 Engineering Focus
+
+```text
+                         SOFTWARE ENGINEERING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+        BACKEND                AI SYSTEMS           FULL STACK
+             │                    │                    │
+       ┌─────┼─────┐        ┌─────┼─────┐        ┌─────┼─────┐
+       ▼     ▼     ▼        ▼     ▼     ▼        ▼     ▼     ▼
+      APIs  Data  Security Agents LLM  Tools   UI   APIs  UX
+       │     │     │        │     │     │        │     │     │
+       └─────┴─────┴────────┴─────┴─────┴────────┴─────┴─────┘
+                                  │
+                                  ▼
+                         DEPLOYABLE PRODUCTS
+```
+
+I care about software that is not only functional, but also **maintainable, secure, observable, and deployable**.
+
+---
+
+# 🔬 What I'm Building
+
+My current project direction is increasingly centered around the intersection of **software engineering + AI + automation**.
+
+### Current areas of exploration
+
+- 🤖 Agentic AI systems
+- 🧠 Local AI assistants
+- 🔌 Tool-based AI architectures
+- 👁️ Multimodal computer interaction
+- ⚙️ Intelligent automation
+- 🏗️ Modular backend architectures
+- ☁️ Production deployment
+- 📱 Cross-device software experiences
+
+The long-term objective is to build software where AI is not merely a conversational layer, but an **execution and orchestration layer for real applications**.
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rithymeth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF00F7&icon_color=00F7FF" alt="GitHub statistics">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithymeth&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF00F7" alt="Top languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rithymeth&theme=radical&hide_border=true&background=0D1117&stroke=FF00F7&ring=00F7FF&fire=FF00F7" alt="GitHub streak">
+
+</div>
+
+---
+
+# 💼 Professional Background
 
 ### Senior Software Engineer — ICG
 
 **Jan 2023 – Present**
 
-Working on software development, backend functionality, integrations, application architecture, and maintaining reliable software systems.
+Software engineering across backend development, application functionality, integrations, architecture, and reliable software delivery.
 
 ### Junior Software Developer — Wannagrow
 
 **Dec 2021 – Dec 2023**
 
-Worked on software development, backend services, APIs, databases, debugging, deployment, and application maintenance.
+Software development across backend services, APIs, databases, debugging, deployment, and application maintenance.
 
 ---
 
-# 🧠 Engineering Interests
+# 🌱 Continuous Learning
 
-```text
-Backend Engineering
-        │
-        ├── API Design
-        ├── Database Architecture
-        ├── Authentication & Security
-        ├── Distributed Systems
-        ├── Cloud Infrastructure
-        ├── Performance Optimization
-        └── System Design
+I'm currently deepening my knowledge in:
 
-AI Engineering
-        │
-        ├── AI Agents
-        ├── LLM Applications
-        ├── Automation
-        ├── Tool Calling
-        └── AI-powered Software
-```
+- `Go`
+- `Rust`
+- `System Design`
+- `Distributed Systems`
+- `Cloud Architecture`
+- `AI Engineering`
+- `High-Performance Backend Systems`
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 Engineering Principles
 
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-<img src="https://img.shields.io/badge/System_Design-FF00F7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Distributed_Systems-00F7FF?style=for-the-badge">
-</p>
+> **Build systems, not just features.**
 
-Currently focusing on improving my knowledge of **high-performance backend systems, distributed architectures, cloud infrastructure, and AI engineering**.
+> **Keep architecture modular.**
+
+> **Automate repetitive work.**
+
+> **Treat security as an architectural concern.**
+
+> **Make software deployable and observable.**
+
+> **Use AI as an engineering multiplier—not a substitute for engineering discipline.**
 
 ---
 
-# 📊 GitHub Analytics
+# 📫 Connect
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rithymeth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF00F7&icon_color=00F7FF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithymeth&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF00F7" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rithymeth&theme=radical&hide_border=true&background=0D1117&stroke=FF00F7&ring=00F7FF&fire=FF00F7" />
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:[rithy1331@gmail.com](mailto:rithy1331@gmail.com)"> <img src="https://img.shields.io/badge/Email-Rithy1331%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 <a href="https://github.com/rithymeth">
-<img src="https://img.shields.io/badge/GitHub-rithymeth-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-rithymeth-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<a href="https://www.linkedin.com/in/rithy-meth-72b99129/">
-<img src="https://img.shields.io/badge/LinkedIn-Rithy_Meth-0077B5?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/rithy-meth-72b99129a">
+<img src="https://img.shields.io/badge/LinkedIn-Rithy_Meth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:rithy1331@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="Footer">
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ⚡ Build. Automate. Scale. Innovate.
-
-*"In the digital realm, where code meets creativity, innovation knows no bounds."*
-
-</div>
+<p align="center">
+  <strong>⚡ Build. Automate. Scale. Innovate.</strong>
+</p>
